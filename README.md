@@ -17,7 +17,12 @@ This is the repo for my capstone project. Right now it is in the setup stage, so
 
 ## Getting started
 
-Clone the repo with `git clone https://github.com/FatimaAlmasri/Capstone-project.git`
+Clone the repo, then open the project folder:
+
+```bash
+git clone https://github.com/FatimaAlmasri/Capstone-project.git
+cd Capstone-project
+```
 
 There is nothing to run yet. I will add the run steps once the app is ready.
 
